@@ -3,7 +3,7 @@
 <suite name="Suite">
 	<test thread-count="5" name="Test">
 
-		<parameter name="Browsers" value="Edge" />
+		<parameter name="Browsers" value="Chrome" />
 		<classes>
 			<class name="coindcx.scripts.SignUpCoinDcx" />
 		</classes>
